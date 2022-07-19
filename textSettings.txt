@@ -1,0 +1,7 @@
+Load on Startup: false
+Apply Settings: false
+
+Allow Punctuation: false
+Time/Word Mode: Time
+SelectedNumOfWords: 1
+Randomize Maps: true

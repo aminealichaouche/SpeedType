@@ -1,0 +1,4 @@
+Number of Games: 0
+Average WPM (Raw): 0.0
+Average WPM (Actual): 0.0
+Average Accuracy: 0.0

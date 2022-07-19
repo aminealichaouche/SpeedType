@@ -1,0 +1,4 @@
+Number of Games: 100
+Average WPM (Raw): 100.0
+Average WPM (Actual): 80.0
+Average Accuracy: 50
